@@ -1,5 +1,5 @@
-Google AnalyticsTest
-====================
+GoogleAnalyticsTest
+===================
 
 Android app to show how to collect relevant info with Google Analytics based on user interaction.
 
